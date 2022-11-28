@@ -163,17 +163,30 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
+      title: "University Science Malaysoa",
+      subtitle: "Bachelor in Computer Sciences",
       logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      alt_name: "USM",
+      duration: "2019 - Present",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I have studied Artificial Intelligent such as Machine Learning, Deep Learning and Data Analytic",
+        "⚡ I have also learned on web development using HTML, CSS and JavaScript",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "http://www.usm.my/",
+    },
+  ],
+  degrees: [
+    {
+      title: "UiTM, Dengkil",
+      subtitle: "Foundation in Engineering",
+      logo_path: "iiitk_logo.png",
+      alt_name: "UiTM",
+      duration: "2018-2019",
+      descriptions: [
+        "⚡ I have studied basic engineering courses",
+        "⚡ Ended with a CGPA of 3.67",
+      ],
+      website_link: "https://asasi.uitm.edu.my/",
     },
   ],
 };
