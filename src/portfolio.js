@@ -101,7 +101,16 @@ const skills = {
           style: {
             color: "#1572B6",
           },
+        },{
+          skillName: "JavaScript",
+          fontAwesomeClassname: "simple-icons:javascript",
+          style: {
+            backgroundColor: "#000000",
+            color: "#F7DF1E",
+          },
         },
+      ],
+    },
 
     {
       title: "Cloud Infra-Architecture",
