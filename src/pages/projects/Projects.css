@@ -33,7 +33,9 @@
 .nama{
   max-width: 100%;
   height: auto;
-  margin:10px
+  margin:10px;
+  background-color: #4169E1;
+  
 }
 
 .projects-heading-text {
