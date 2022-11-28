@@ -115,6 +115,8 @@ const skills = {
 };
 
 // Education Page
+const competitiveSites = {
+};
 const degrees = {
   degrees: [
     {
@@ -285,6 +287,7 @@ export {
   greeting,
   socialMediaLinks,
   skills,
+  competitiveSites,
   degrees,
   experience,
   certifications,
