@@ -284,7 +284,6 @@ export {
   socialMediaLinks,
   skills,
   degrees,
-  certifications,
   experience,
   projectsHeader,
   publicationsHeader,
