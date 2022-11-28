@@ -184,7 +184,7 @@ const experience = {
       experiences: [
         {
           title: "Portal Development",
-          logo_path: "web_logo.jpeg",
+          logo_path: "jabil_logo.jpeg",
           description:
             "I have been task to develop a portal for the Device named Zeus, I develop this portal by using HTML< CSS, JavaScript and Docker",
           color: "#ee3c26",
