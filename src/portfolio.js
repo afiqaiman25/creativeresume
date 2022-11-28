@@ -165,7 +165,7 @@ const degrees = {
     {
       title: "University Science Malaysoa",
       subtitle: "Bachelor in Computer Sciences",
-      logo_path: "iiitk_logo.png",
+      logo_path: "usm-logo.jpeg",
       alt_name: "USM",
       duration: "2019 - Present",
       descriptions: [
@@ -174,12 +174,10 @@ const degrees = {
       ],
       website_link: "http://www.usm.my/",
     },
-  ],
-  degrees: [
     {
       title: "UiTM, Dengkil",
       subtitle: "Foundation in Engineering",
-      logo_path: "iiitk_logo.png",
+      logo_path: "uitm-logo.jpeg",
       alt_name: "UiTM",
       duration: "2018-2019",
       descriptions: [
