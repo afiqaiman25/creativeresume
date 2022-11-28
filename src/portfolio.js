@@ -170,9 +170,8 @@ const experience = {
       title: "Company",
       experiences: [
         {
-          title: "Intern",
-          company: "Jabil Sdn. Bhd.",
-          company_url: "https://www.jabil.com/",
+          title: "Jabil Sdn. Bhd.",
+          company: "",
           logo_path: "jabil_logo.jpeg",
           duration: "Mar 2022- Sept 2022",
           location: "Penang, Malaysia",
