@@ -47,9 +47,17 @@ class Projects extends Component {
           </Fade>
         </div>
         <div className="repo-cards-div-main">
-		<div>
-		<h3>Notes Storage</h3>
-		<p> Able to store notes into database and able to delete, edit and add.</p>
+		<div className="nama">
+			<h3>Notes Storage</h3>
+			<p> Able to store notes into database and able to delete, edit and add.</p>
+		</div>
+		<div className="nama">
+			<h3>Raspberry Pi Application Testing</h3>
+			<p> Learn and experience Raspberry Pi by handling its OS and Configuration.</p>
+		</div>
+		<div className="nama">
+			<h3>Human Activity Recognition</h3>
+			<p> Using Deep Learning to detect Human Activity.</p>
 		</div>
         </div>
         
