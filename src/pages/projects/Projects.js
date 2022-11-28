@@ -59,6 +59,10 @@ class Projects extends Component {
 			<h3>Human Activity Recognition</h3>
 			<p> Using Deep Learning to detect Human Activity.</p>
 		</div>
+		<div className="nama">
+			<h3>Innovation Project For Sustainability</h3>
+			<p> Developing an app that help the 17 SDGs.</p>
+		</div>
         </div>
         
 
