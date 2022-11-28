@@ -30,6 +30,12 @@
   height: auto;
 }
 
+.nama{
+  max-width: 100%;
+  height: auto;
+  margin:10px
+}
+
 .projects-heading-text {
   font-size: 56px;
   font-weight: 400;
