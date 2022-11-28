@@ -191,8 +191,6 @@ const experience = {
     },
   ],
 };
-const certifications = {
-};
 
 // Projects Page
 const projectsHeader = {
