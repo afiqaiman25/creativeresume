@@ -225,27 +225,22 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "afiq.jpeg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "If I am the person you are looking for? Please do contact me.",
   },
   blogSection: {
-    title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://ashutoshhathidara.wordpress.com",
-    avatar_image_path: "blogs_image.svg",
+    
   },
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "122 Persiaran Mayang Pasir 11900 Bayan Baru Penang",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8320758513",
+    subtitle: "+601125802139",
   },
 };
 
