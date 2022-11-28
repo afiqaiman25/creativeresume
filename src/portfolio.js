@@ -188,6 +188,8 @@ const experience = {
     },
   ],
 };
+const certifications = {
+};
 
 // Projects Page
 const projectsHeader = {
@@ -285,6 +287,7 @@ export {
   skills,
   degrees,
   experience,
+  certifications,
   projectsHeader,
   publicationsHeader,
   publications,
