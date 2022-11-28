@@ -16,7 +16,7 @@ class Education extends Component {
     const theme = this.props.theme;
     return (
      
-    );
+    )
   }
 }
 
