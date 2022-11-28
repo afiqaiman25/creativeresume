@@ -49,15 +49,12 @@ class Projects extends Component {
           </Fade>
         </div>
         <div className="repo-cards-div-main">
-
+		<div>
+		<h3>Notes Storage</h3>
+		<p> Able to store notes into database and able to delete, edit and add.</p>
+		</div>
         </div>
-        <Button
-          text={"More Projects"}
-          className="project-button"
-          href={greeting.githubProfile}
-          newTab={true}
-          theme={theme}
-        />
+        
 
         {/* Publications  */}
         {publications.data.length > 0 ? (
