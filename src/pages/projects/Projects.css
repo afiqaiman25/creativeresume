@@ -34,6 +34,7 @@
   max-width: 100%;
   height: auto;
   margin:10px;
+  padding: 10px;
   background-color: #4169E1;
   
 }
@@ -75,7 +76,7 @@
 .repo-cards-div-main {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 1rem 1rem;
   margin-left: 40px;
   margin-right: 40px;
