@@ -173,7 +173,7 @@ const experience = {
           title: "Intern",
           company: "Jabil Sdn. Bhd.",
           company_url: "https://www.jabil.com/",
-          logo_path: "legato_logo.png",
+          logo_path: "jabil_logo.jpeg",
           duration: "Mar 2022- Sept 2022",
           location: "Penang, Malaysia",
           description:
@@ -187,14 +187,14 @@ const experience = {
       experiences: [
         {
           title: "Portal Development",
-          logo_path: "delhivery_logo.png",
+          logo_path: "web_logo.jpeg",
           description:
             "I have been task to develop a portal for the Device named Zeus, I develop this portal by using HTML< CSS, JavaScript and Docker",
           color: "#ee3c26",
         },
         {
           title: "Raspberry Pi Application testing",
-          logo_path: "intel_logo.jpg",
+          logo_path: "pi_logo.png",
           description:
             "i have been task to test the new under-developing OS for the Raspberry Pi.",
           color: "#0071C5",
@@ -213,54 +213,11 @@ const projectsHeader = {
 };
 
 const publicationsHeader = {
-  title: "Publications",
-  description:
-    "I have worked on and published a few research papers and publications of my own.",
-  avatar_image_path: "projects_image.svg",
 };
 
 const publications = {
   data: [
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
+  
   ],
 };
 
