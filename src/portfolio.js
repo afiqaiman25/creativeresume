@@ -163,15 +163,13 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience Internship",
-  subtitle: "Experience internship for 6 months at Jabil Sdn. Bhd. From Mar 2022 until Sept 2022. I have been assigned to a team named incubation which develop devices using Raspberry Pi",
-  header_image_path: "experience.svg",
   sections: [
     {
       title: "Company",
       experiences: [
         {
           title: "Jabil Sdn. Bhd.",
-          logo_path: "web_logo.jpeg",
+          logo_path: "jabil_logo2.jpeg",
           duration: "Mar 2022- Sept 2022",
           description:
             "Working as an intern for 6 month under a team named incubation which develop devices using Raspberry Pi.",
