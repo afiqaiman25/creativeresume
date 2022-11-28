@@ -124,7 +124,7 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "University Science Malaysoa",
+      title: "University Science Malaysia",
       subtitle: "Bachelor in Computer Sciences",
       logo_path: "usm-logo.jpeg",
       alt_name: "USM",
@@ -171,10 +171,8 @@ const experience = {
       experiences: [
         {
           title: "Jabil Sdn. Bhd.",
-          company: "",
           logo_path: "jabil_logo.jpeg",
           duration: "Mar 2022- Sept 2022",
-          location: "Penang, Malaysia",
           description:
             "Working as an intern for 6 month under a team named incubation which develop devices using Raspberry Pi.",
           color: "#0879bf",
