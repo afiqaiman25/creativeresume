@@ -219,6 +219,7 @@ const skills = {
         },
       ],
     },
+  ],
 };
 
 // Education Page
