@@ -171,7 +171,7 @@ const experience = {
       experiences: [
         {
           title: "Jabil Sdn. Bhd.",
-          logo_path: "jabil_logo.jpeg",
+          logo_path: "web_logo.jpeg",
           duration: "Mar 2022- Sept 2022",
           description:
             "Working as an intern for 6 month under a team named incubation which develop devices using Raspberry Pi.",
@@ -184,7 +184,7 @@ const experience = {
       experiences: [
         {
           title: "Portal Development",
-          logo_path: "jabil_logo.jpeg",
+          logo_path: "web_logo.jpeg",
           description:
             "I have been task to develop a portal for the Device named Zeus, I develop this portal by using HTML< CSS, JavaScript and Docker",
           color: "#ee3c26",
