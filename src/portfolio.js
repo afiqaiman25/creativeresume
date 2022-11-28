@@ -162,8 +162,8 @@ const certifications = {
 
 // Experience Page
 const experience = {
-  title: "Experience",
-  subtitle: "Internship",
+  title: "Experience Internship",
+  subtitle: "Experience internship for 6 months at Jabil Sdn. Bhd. From Mar 2022 until Sept 2022. I have been assigned to a team named incubation which develop devices using Raspberry Pi",
   header_image_path: "experience.svg",
   sections: [
     {
