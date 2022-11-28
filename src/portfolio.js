@@ -145,6 +145,7 @@ const degrees = {
     },
   ],
 };
+const certifications = { };
 
 
 // Experience Page
